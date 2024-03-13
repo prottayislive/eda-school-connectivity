@@ -1,5 +1,5 @@
 ### Report on Data Cleaning Process of School-Age Digital Connectivity Dataset
-
+[View Notebook for code and visualisations](https://github.com/prottayislive/eda-school-connectivity/blob/main/EDA_School-Digital-Connectivity.ipynb)
 #### Overview
 The data cleaning process was applied to the "School-Age-Digital-Connectivity-A1data.csv" dataset. The primary goal was to prepare the dataset for further analysis by addressing various data quality issues. The dataset contains information about the digital connectivity of children in school attendance age, with internet connection at home.
 
